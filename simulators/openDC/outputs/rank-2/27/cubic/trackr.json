@@ -1,0 +1,192 @@
+[{
+    "name": "cubic",
+    "outputFolder": "outputs/rank-2/27",
+    "topology": {
+        "pathToFile": "topologies/cubic.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/sockshop/A/100/27",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "cubic",
+    "outputFolder": "outputs/rank-2/27",
+    "topology": {
+        "pathToFile": "topologies/cubic.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/sockshop/A/1000/4",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "cubic",
+    "outputFolder": "outputs/rank-2/27",
+    "topology": {
+        "pathToFile": "topologies/cubic.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/sockshop/B/100/25",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "cubic",
+    "outputFolder": "outputs/rank-2/27",
+    "topology": {
+        "pathToFile": "topologies/cubic.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/sockshop/B/1000/15",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "cubic",
+    "outputFolder": "outputs/rank-2/27",
+    "topology": {
+        "pathToFile": "topologies/cubic.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/trainticket/A/100/3",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "cubic",
+    "outputFolder": "outputs/rank-2/27",
+    "topology": {
+        "pathToFile": "topologies/cubic.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/trainticket/A/1000/7",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "cubic",
+    "outputFolder": "outputs/rank-2/27",
+    "topology": {
+        "pathToFile": "topologies/cubic.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/trainticket/B/100/27",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "cubic",
+    "outputFolder": "outputs/rank-2/27",
+    "topology": {
+        "pathToFile": "topologies/cubic.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/trainticket/B/1000/8",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+}]

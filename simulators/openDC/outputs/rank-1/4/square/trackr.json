@@ -1,0 +1,192 @@
+[{
+    "name": "square",
+    "outputFolder": "outputs/rank-1/4",
+    "topology": {
+        "pathToFile": "topologies/square.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/sockshop/A/100/29",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "square",
+    "outputFolder": "outputs/rank-1/4",
+    "topology": {
+        "pathToFile": "topologies/square.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/sockshop/A/1000/22",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "square",
+    "outputFolder": "outputs/rank-1/4",
+    "topology": {
+        "pathToFile": "topologies/square.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/sockshop/B/100/17",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "square",
+    "outputFolder": "outputs/rank-1/4",
+    "topology": {
+        "pathToFile": "topologies/square.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/sockshop/B/1000/24",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "square",
+    "outputFolder": "outputs/rank-1/4",
+    "topology": {
+        "pathToFile": "topologies/square.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/trainticket/A/100/27",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "square",
+    "outputFolder": "outputs/rank-1/4",
+    "topology": {
+        "pathToFile": "topologies/square.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/trainticket/A/1000/5",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "square",
+    "outputFolder": "outputs/rank-1/4",
+    "topology": {
+        "pathToFile": "topologies/square.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/trainticket/B/100/4",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+},
+{
+    "name": "square",
+    "outputFolder": "outputs/rank-1/4",
+    "topology": {
+        "pathToFile": "topologies/square.json"
+    },
+    "workload": {
+        "pathToFile": "../../traces/trainticket/B/1000/13",
+        "type": "ComputeWorkload"
+    },
+    "allocationPolicy": {
+        "policyType": "Random"
+    },
+    "exportModel": {
+        "exportInterval": 1,
+        "filesToExportDict": {
+            "host": true,
+            "task": true,
+            "powerSource": true,
+            "battery": true,
+            "service": true
+        }
+    }
+}]

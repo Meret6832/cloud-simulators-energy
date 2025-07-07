@@ -1,0 +1,20 @@
+{
+    "host": {
+        "n_cores": 16,
+        "core_gflops": 281.6,
+        "core_freq_ghz": 2.1,
+        "ram_gb": 376,
+        "ipc_trainticket": 0.8786666666666669,
+        "ipc_sockshop": 0.7113333333333334,
+        "power": {
+            "avg": 4.38525464009019,
+            "off": 0,
+            "idle": 2.3787777867539663,
+            "max": 7.889543293761141
+        }
+    },
+    "network": {
+        "bandwidth_gbps": 1,
+        "latency_ms": 0.25
+    }
+}
